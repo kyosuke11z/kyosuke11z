@@ -1,4 +1,4 @@
-## Hi, I'm Aphirak — Full-Stack Developer 👋
+## Hi, I'm Apirak — Full-Stack Developer 👋
 
 I build web and mobile systems with a focus on practical, 
 production-ready architecture.
