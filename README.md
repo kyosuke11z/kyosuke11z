@@ -26,12 +26,6 @@ Bangkok · Available immediately · bigtkman@gmail.com
 
 ## Projects
 
-**[Nexus Smart Platform](https://github.com/kyosuke11z/Nexus-Smart-Platform)** — `NestJS · Flutter · React · PostgreSQL · Redis`
-White-label petroleum management monorepo. Offline-First POS across 3 branches, zero data loss. 12 schemas, 224 tables.
-
-**[Nexus Petroleum Profit Calculator](https://github.com/kyosuke11z/nexus-petroleum-profit-calculator)** — `Flutter · Riverpod · Drift SQLite · Supabase`
-Offline-first profitability & break-even calculator for B2B petroleum distributors. Used live for CEO pricing decisions.
-
 **[MyClinic Pro](https://github.com/kyosuke11z/myclinic-backend)** — `Express.js · Angular Signals · MySQL · SQLite`
 Clinic management system with Clinical Safety Guards, Split-Billing POS, and Offline-First Sync Replayer.
 
