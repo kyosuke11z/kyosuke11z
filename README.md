@@ -1,42 +1,171 @@
-# Apirak Chatluang — Full-Stack Developer
+# Apirak Chatluang
 
-> I build systems that keep working when the internet doesn't.
+**Full-Stack Developer**
 
-Bangkok · Available immediately · bigtkman@gmail.com
+I build business systems that continue operating when networks fail.
 
----
-
-## Stack
-
-**Languages** — TypeScript, Dart, PHP, C#, JavaScript
-
-**Backend** — NestJS, Laravel 12, Express.js, Supabase
-
-**Frontend / Mobile** — Flutter, React 18, Angular (Signals), Next.js, Livewire 3
-
-**Database** — PostgreSQL, Drift SQLite, Redis, MySQL, SQLite, Prisma ORM
-
-**Infra** — Docker, Linux VPS, Firebase, Git
-
-**AI & Tooling** — Claude Code, Claude API, Cursor, ML.NET, PHPUnit
-
-**Architecture** — Offline-First Sync, ERP / POS Systems, Real-time Systems, REST API, Monorepo, MVVM
+Bangkok, Thailand • Available Immediately
+📧 [bigtkman@gmail.com](mailto:bigtkman@gmail.com)
 
 ---
 
-## Projects
+## About
 
-**[MyClinic Pro](https://github.com/kyosuke11z/myclinic-backend)** — `Express.js · Angular Signals · MySQL · SQLite`
-Clinic management system with Clinical Safety Guards, Split-Billing POS, and Offline-First Sync Replayer.
+Full-Stack Developer specializing in **Offline-First Architecture**, **ERP/POS Systems**, and **Resilient Business Applications**.
 
-**[Election Live Results](https://github.com/kyosuke11z/election-live-results)** — `React 18 · TypeScript · Firebase`
-Real-time public vote display for Pichai Municipality. Zero downtime on election night.
+Experienced in designing synchronization engines, optimizing backend performance, and building software that remains operational in unstable network environments.
 
-**[Laravel ERP](https://github.com/kyosuke11z/erp-project)** — `Laravel 12 · Livewire 3 · PHP 8.4`
-Full-cycle ERP — Sales, Purchasing, Finance with RBAC, Sanctum API, and PHPUnit test suite.
+My focus is not just building features, but engineering systems that are reliable, maintainable, and scalable in real-world production environments.
 
-**[Pixel Office](https://github.com/kyosuke11z/pixel-office)** — `TypeScript · Phaser 3 · React · Node.js`
-Multi-agent AI simulation. 7 agents with unique personalities, orchestrated by a secretary agent.
+---
 
-**[PersonalAI](https://github.com/kyosuke11z/PersonalAI)** — `C# · WPF · .NET 8 · ML.NET · Claude API`
-Emotion-aware chatbot — ML.NET sentiment pre-screening feeds Claude API context with streaming responses.
+## Core Expertise
+
+### Offline-First Systems
+
+* SQLite-based local storage
+* Bidirectional synchronization
+* Conflict detection & resolution
+* Sync queue architecture
+* Network resilience strategies
+
+### Enterprise Applications
+
+* ERP / POS Systems
+* RBAC & Permission Models
+* Financial & Inventory Workflows
+* Transaction Safety
+* Audit Logging
+
+### Backend Engineering
+
+* NestJS
+* Laravel
+* Express.js
+* REST API Design
+* PostgreSQL
+* Redis
+* Prisma ORM
+
+### Frontend & Mobile
+
+* Angular (Signals)
+* React 18
+* Next.js
+* Flutter
+* Livewire 3
+
+### Infrastructure
+
+* Docker
+* Linux VPS
+* Firebase
+* Git
+* CI/CD Workflows
+
+### AI & Development Tools
+
+* Claude Code
+* Claude API
+* Cursor
+* ML.NET
+* PHPUnit
+
+---
+
+# Featured Projects
+
+## Offline Sync Sales WebApp
+
+Production-inspired Offline-First sales application built for unreliable network environments.
+
+### Highlights
+
+* SQLite WASM local database
+* Bidirectional synchronization engine
+* Conflict detection
+* Interactive conflict resolution panel
+* Automatic sync queue processing
+* NestJS backend architecture
+
+### Focus Areas
+
+* Data consistency
+* Offline operations
+* Distributed synchronization
+* Production resilience
+
+---
+
+## Enterprise Mini ERP Demo
+
+Enterprise-style ERP showcase demonstrating business-critical application architecture.
+
+### Highlights
+
+* RBAC authorization system
+* Multi-module business workflows
+* PostgreSQL transactional consistency
+* Row-level locking
+* Clean Architecture
+* Audit-ready design
+
+### Focus Areas
+
+* Authorization design
+* Business process modeling
+* Transaction safety
+* Enterprise architecture
+
+---
+
+## NestJS Redis Benchmark Demo
+
+Performance benchmarking project demonstrating database optimization through caching.
+
+### Highlights
+
+* Redis caching layer
+* PostgreSQL dataset (500k+ records)
+* Performance comparison testing
+* API response optimization
+* Dockerized environment
+
+### Focus Areas
+
+* Backend performance
+* Query optimization
+* Scalability
+* Infrastructure efficiency
+
+---
+
+## PersonalAI
+
+Desktop AI assistant built with .NET technologies and local machine learning integration.
+
+### Highlights
+
+* WPF desktop application
+* ML.NET sentiment analysis
+* Claude API integration
+* Real-time streaming responses
+* Context-aware conversations
+
+### Focus Areas
+
+* AI integration
+* Desktop applications
+* Local inference workflows
+
+---
+
+# Professional Interests
+
+* Offline-First Architecture
+* Distributed Systems
+* ERP/POS Platforms
+* System Design
+* Backend Performance Optimization
+* Software Architecture
+* AI-Assisted Development
